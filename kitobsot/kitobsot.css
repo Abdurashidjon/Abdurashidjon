@@ -1,0 +1,124 @@
+.obwiy{
+    display: block;
+}
+.yuzfoiz {
+    max-width: 100px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #f0f0f0;
+}
+.ravnovesi {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.header {
+    background-color:#36313b;
+    color:white;
+    text-align:center;
+    height:10%;
+}
+.header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0;
+    overflow: hidden;
+    text-align:center;
+}
+
+.header li {
+    display:inline;
+}
+
+.header li a {
+    display: inline-block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.header li a:hover {
+    background-color: #232224;
+}
+.box_3{
+    background:blanchedalmond;
+    width: 100%;
+    height:  1000px;
+    border: 2px ;
+   
+}
+.tepa{
+    width: 100%;
+    height: 100px;
+    float: top;
+  font-weight:bold;
+	font-size:20px;
+}
+.ong{
+    margin: 0 30px;
+    background-image: url(/kitobsot/photo_2021-05-18_13-54-56.jpg);
+    background-size: 100%;
+    width:  30%;
+    height: 300px;
+    
+    float: left;
+    border-radius: 1.5%;
+    border: 1px solid rgb(87, 85, 85);
+    margin-left:  10%;
+    background-size: cover;
+ 
+    
+}
+.chap{
+    width: 49%;
+    height: 400px;
+    float: right;
+    display: center
+ 
+}
+.pastkiqism{
+    background-color: #232224;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.pastkiqism h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.pastkiqism button{
+    color: white;
+    margin: 30px 0;
+    background-color: #f09c18;
+    padding: 10px 70px;
+    border: none;
+text-transform: uppercase;
+font-weight: bold;
+font-size: 15px;
+border-radius: 5px;
+}
+.chap button{
+    
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #f09c18;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px 40px;
+    margin:  20px 0;
+   display: flex;
+   justify-content: center;   
+}
+
+  
+    

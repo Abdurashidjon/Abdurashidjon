@@ -1,0 +1,120 @@
+.obshiy{
+	display: block;
+}
+.yuzfoiz {
+    max-width: 1120px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #f0f0f0;
+}
+.ravnovesi {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.tepa{
+	width:100%;
+	text-align:center;
+}
+.tepa h3{
+	font-weight:bold;
+	font-size:20px;
+}
+.past{
+	width:100%;
+	text-align:center;
+	background-color: #171a28;
+	color:#fff;
+}
+.past h3{
+	font-weight:bold;
+	font-size:20px;
+}
+.past button{
+	margin:30px 0;
+	background-color:#f09c18;
+	padding:10px 50px;
+	border: none;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	border-radius:10px;
+}
+.ong {
+    -ms-flex: 0 0 35%;
+    -webkit-box-flex: 0;
+    flex: 0 0 35%;
+    max-width: 35%;
+}
+.ong_back{
+	margin:0 30px;
+	background-image: url(back.jpg);
+	height: 550px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.chap {
+    -ms-flex: 0 0 65%;
+    -webkit-box-flex: 0;
+    flex: 0 0 65%;
+    max-width: 65%;
+	text-align:center
+}
+.chap h3{
+	margin:40px 0;
+	font-weight:normal;
+}
+.chap button{
+	margin:30px 0;
+	background-color:#f09c18;
+	padding:10px 20px;
+	border: none;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	border-radius:10px;
+}
+
+.menu{
+	width:100%;
+	background-color: #565656;
+}
+.header {
+    background-color:#565656;
+    color:white;
+    text-align:center;
+    height:10%;
+}
+.header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0;
+    overflow: hidden;
+    text-align:center;
+}
+
+.header li {
+    display:inline;
+}
+
+.header li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.header li a:hover {
+    background-color: #111;
+}
